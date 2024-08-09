@@ -1,0 +1,7 @@
+rgname = "dev_rg1"
+rglocation = "East US"
+prefix = "dev_vnet"
+vnet_cidr_prefix = "10.0.0.0/16"
+subnet = "dev_subnet"
+subnet_cidr_prefix = "10.0.0.0/24"
+vm_nic = "dev_vm_nic1"
